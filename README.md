@@ -1,4 +1,4 @@
-# Propuesta de solución para Hackathon 2021
+# Propuesta de solución para Hackathon Ceiba 2021
 
 ## Descripción de la solución 
 
@@ -7,7 +7,7 @@ Describa brevemente la estrategia de solución para el problema planteado
 
 ## Diagrama de solución 
 
-Apoyados del plugin de Draw.io Integration (Henning Dieterichs), puede plasmar un diseño gráfico que soporte la estrategia descrita en el punto anterior. 
+Apoyados del plugin de [Draw.io Integration - Henning Dieterichs](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) , puede plasmar un diseño gráfico que soporte la estrategia descrita en el punto anterior. 
 
 ![Diagrama componentes!](./solucion.drawio.svg "Diagrama de Solución")
 
@@ -16,7 +16,7 @@ Apoyados del plugin de Draw.io Integration (Henning Dieterichs), puede plasmar u
 | DB | Guardar datos |    
 
 
-## Ayudas didácticas
+## Otras ayudas didácticas
 
 para efecto de agilizar un poco mas el desarrollo, aqui dejamos algunos dockerfiles (pailas con las tecnologías que falten, Aguilar es así)
 
