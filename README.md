@@ -20,7 +20,9 @@ Apoyados del plugin de [Draw.io Integration - Henning Dieterichs](https://market
 
 para efecto de agilizar un poco mas el desarrollo, aqui dejamos algunos dockerfiles (pailas con las tecnologías que falten, Aguilar es así)
 
+* [Go](./Dockerfile-go)
 * [Java](./Dockerfile-java)
 * [.NET](./Dockerfile-net6)
 * [Node.js](./Dockerfile-node)
+* [Python](./Dockerfile-py-flask)
 * [Rust](./Dockerfile-rust)
