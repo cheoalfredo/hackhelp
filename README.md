@@ -4,6 +4,9 @@
 
 Describa brevemente la estrategia de solución para el problema planteado
 
+## Drivers que orientan la toma de decisiones para la solución propuesta
+
+Enumere los drivers de arquitectura (requisitos no funcionales) que su equipo tuvo en cuenta en la solucion propuesta. P.ej: Seguridad, Usabilidad, etc.
 
 ## Diagrama de solución 
 
@@ -18,7 +21,7 @@ Apoyados del plugin de [Draw.io Integration - Henning Dieterichs](https://market
 
 ## Otras ayudas didácticas
 
-para efecto de agilizar un poco mas el desarrollo, aqui dejamos algunos dockerfiles (pailas con las tecnologías que falten, Aguilar es así)
+Para efecto de agilizar un poco mas el desarrollo, aqui dejamos algunos dockerfiles-
 
 * [Go](./Dockerfile-go)
 * [Java](./Dockerfile-java)
