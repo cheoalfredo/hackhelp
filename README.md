@@ -6,7 +6,7 @@ Describa brevemente la estrategia de solución para el problema planteado
 
 ## Drivers que orientan la toma de decisiones para la solución propuesta
 
-Enumere los drivers de arquitectura (requisitos no funcionales) que su equipo tuvo en cuenta en la solucion propuesta. P.ej: Seguridad, Usabilidad, etc.
+Enumere los drivers de arquitectura (requisitos no funcionales) que su equipo tuvo en cuenta en la solución propuesta. P.ej: Seguridad, Usabilidad, etc.
 
 ## Diagrama de solución 
 
@@ -14,7 +14,7 @@ Apoyados del plugin de [Draw.io Integration - Henning Dieterichs](https://market
 
 ![Diagrama componentes!](./solucion.drawio.svg "Diagrama de Solución")
 
-| Elemento | Descripcion |
+| Elemento | Descripción |
 | :----    | :---        | 
 | DB | Guardar datos |    
 
