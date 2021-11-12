@@ -14,3 +14,13 @@ Apoyados del plugin de Draw.io Integration (Henning Dieterichs), puede plasmar u
 | Elemento | Descripcion |
 | :----    | :---        | 
 | DB | Guardar datos |    
+
+
+## Ayudas didácticas
+
+para efecto de agilizar un poco mas el desarrollo, aqui dejamos algunos dockerfiles (pailas con las tecnologías que falten, Aguilar es así)
+
+[Java](./Dockerfile-java)
+[.NET](./Dockerfile-net6)
+[Node.js](./Dockerfile-node)
+[Rust](./Dockerfile-rust)
